@@ -2,7 +2,9 @@
 - 👀 I’m interested in Freelance or Part-time work as Fullstack Software Engineer
 - 🌱 I’m currently learning ... Advance level of different Javascript Frameworks
 - 💞️ I’m looking to collaborate on Web Applications based on Fit-Tech, Banking and Financial.
-- 📫 How to reach me? send email to sajjadkhadim706@gmail.com
+- 📫 How to reach me?
+  <p>📞 <b>Contact:</b> +971 (55) 676-2925</p>
+  <p>✉️ <b>Email:</b> <a href="mailto:sajjadkhadim10@gmail.com">sajjadkhadim10@gmail.com</a></p>
 
 ## 🛠️ Technologies & Tools
 
