@@ -6,6 +6,11 @@
   <p>📞 <b>Contact:</b> +971 (55) 676-2925</p>
   <p>✉️ <b>Email:</b> <a href="mailto:sajjadkhadim10@gmail.com">sajjadkhadim10@gmail.com</a></p>
 
+1. **Scope**: [Describe exact deliverables, e.g., "Fix React hydration errors"]  
+2. **Payment**: 50% upfront, 50% on delivery (PayPal/Stripe/Wise).  
+3. **Ownership**: Code belongs to client after full payment.  
+4. **Support**: 14-day free bugfix period for delivered work. 
+
 ## 🛠️ Technologies & Tools
 
 ### 🎨 Frontend
